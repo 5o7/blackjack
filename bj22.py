@@ -1,6 +1,5 @@
 import turtle
 import random
-import card
 
 # Player has 7 attributes: name, bank, bust, hand, bet1, bet2
 
